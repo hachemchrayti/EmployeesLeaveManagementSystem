@@ -1,27 +1,24 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeesLeaveManagementSystem/Startup.cs">
     <Files>
       <File FileName="EmployeesLeaveManagementSystem/Properties/launchSettings.json" Line="23" Column="48" />
-      <File FileName="EmployeesLeaveManagementSystem/Startup.cs" Line="16" Column="41" />
-      <File FileName="EmployeesLeaveManagementSystem/appsettings.json" Line="9" Column="50" />
+      <File FileName="EmployeesLeaveManagementSystem/Startup.cs" Line="38" Column="13" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/Home/Index.cshtml" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmployeesLeaveManagementSystem" expanded="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
               <Node name="Data" expanded="True">
                 <Node name="Migrations" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
               </Node>
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
