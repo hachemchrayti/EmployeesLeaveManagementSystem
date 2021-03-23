@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeesLeaveManagementSystem/Properties/launchSettings.json">
+    <Files>
+      <File FileName="EmployeesLeaveManagementSystem/Properties/launchSettings.json" Line="14" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeesLeaveManagementSystem" expanded="True">
+            <Node name="EmployeesLeaveManagementSystem" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeesLeaveManagementSystem FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
