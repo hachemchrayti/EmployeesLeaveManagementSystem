@@ -1,1 +1,4 @@
-EmployeesLeaveManagementSystem/bin/Debug
+Debug/
+.cache
+.pdb
+.dll
