@@ -1,5 +1,6 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/appsettings.json
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/libman.json
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.StaticWebAssets.xml
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.deps.json
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.runtimeconfig.json
@@ -271,6 +272,8 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.Views.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.Views.pdb
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/Humanizer.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -377,6 +380,7 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csprojAssemblyReference.cache
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.AssemblyInfoInputs.cache
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.AssemblyInfo.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csproj.CoreCompileInputs.cache

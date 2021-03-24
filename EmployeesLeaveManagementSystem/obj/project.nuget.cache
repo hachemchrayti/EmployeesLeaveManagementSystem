@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HfgNa9i+5xvW+654kLMp55ZCzfCKkP5UKTzVNFtGGSblAZgIvEnXy4TNjjDWJCqbq0WtgdLXSWGOmNREwQQRXg==",
+  "dgSpecHash": "/LOBGSCZQDcLs3wOCHK1gk6S7OAuCIAoyGDn0cc2k+anTkb2T0D9RKLMcRi4PUCLUqFXUFdIMdnCxKw9igsW9g==",
   "success": true,
   "projectFilePath": "/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem.csproj",
   "expectedPackageFiles": [
+    "/Users/hachemchrayti/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/hachemchrayti/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/hachemchrayti/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/hachemchrayti/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.13/microsoft.aspnetcore.cryptography.internal.3.1.13.nupkg.sha512",
     "/Users/hachemchrayti/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.13/microsoft.aspnetcore.cryptography.keyderivation.3.1.13.nupkg.sha512",
@@ -89,7 +91,7 @@
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.private.datacontractserialization/4.3.0/system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "/Users/hachemchrayti/.nuget/packages/system.private.uri/4.3.2/system.private.uri.4.3.2.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/hachemchrayti/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
