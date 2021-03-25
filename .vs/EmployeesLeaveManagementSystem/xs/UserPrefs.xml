@@ -1,31 +1,34 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/_Layout.cshtml" Line="37" Column="100" />
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" Line="51" Column="71" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveRequest/Details.cshtml" Line="1" Column="60" />
-      <File FileName="EmployeesLeaveManagementSystem/Repository/LeaveAllocationRepository.cs" Line="13" Column="39" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveAllocation/Index.cshtml" Line="32" Column="76" />
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveAllocationController.cs" Line="48" Column="9" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveRequest/MyLeave.cshtml" Line="87" Column="77" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/_AdminLTE.cshtml" Line="2" Column="38" />
+      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Login.cshtml" Line="41" Column="43" />
+      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Register.cshtml" Line="78" Column="2" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/Home/Index.cshtml" Line="39" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmployeesLeaveManagementSystem" expanded="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Contracts" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="LeaveRequestController.cs" selected="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
-              <Node name="Data" expanded="True" />
-              <Node name="Mappings" expanded="True" />
-              <Node name="Repository" expanded="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="LeaveAllocation" expanded="True" />
                 <Node name="LeaveRequest" expanded="True" />
+                <Node name="LeaveTypes" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -37,7 +40,6 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" relfile="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" line="57" column="1" />
       <Breakpoint file="/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" relfile="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" line="153" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
