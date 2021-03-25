@@ -1,32 +1,28 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/_StatusMessage.cshtml" Line="10" Column="2" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="83" Column="9" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/_ViewImports.cshtml" Line="2" Column="63" />
-      <File FileName="EmployeesLeaveManagementSystem/Startup.cs" Line="46" Column="69" />
-      <File FileName="EmployeesLeaveManagementSystem/SeedData.cs" Line="38" Column="44" />
-      <File FileName="EmployeesLeaveManagementSystem/Program.cs" Line="16" Column="1" />
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveTypesController.cs" Line="14" Column="1" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/_Layout.cshtml" Line="34" Column="34" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/Error.cshtml" Line="1" Column="1" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Error.cshtml" Line="1" Column="1" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/AccessDenied.cshtml" Line="1" Column="1" />
+      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveAllocationController.cs" Line="103" Column="16" />
+      <File FileName="EmployeesLeaveManagementSystem/Models/EmployeeVM.cs" Line="39" Column="13" />
+      <File FileName="EmployeesLeaveManagementSystem/Mappings/Maps.cs" Line="9" Column="6" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveAllocation/ListEmployees.cshtml" Line="27" Column="10" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveAllocation/Details.cshtml" Line="76" Column="17" />
+      <File FileName="EmployeesLeaveManagementSystem/Repository/LeaveAllocationRepository.cs" Line="80" Column="10" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveAllocation/Edit.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EmployeesLeaveManagementSystem" expanded="True" selected="True">
+          <Node name="EmployeesLeaveManagementSystem" expanded="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True">
-                    <Node name="Account" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
               <Node name="Controllers" expanded="True" />
+              <Node name="Mappings" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
               <Node name="Views" expanded="True">
+                <Node name="LeaveAllocation" expanded="True">
+                  <Node name="Edit.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />

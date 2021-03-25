@@ -18,6 +18,8 @@ namespace EmployeesLeaveManagementSystem.Models
         public DateTime DateCreated { get; set; }
 
 
+        public int Period { get; set; }
+
         public EmployeeVM Employee { get; set; }
 
 

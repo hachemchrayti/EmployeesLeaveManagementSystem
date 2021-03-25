@@ -476,6 +476,9 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveAllocation/Details.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveAllocation/Edit.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveAllocation/Index.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Create.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Delete.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Details.cshtml.g.cs
@@ -494,3 +497,5 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.pdb
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.genruntimeconfig.cache
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csprojAssemblyReference.cache
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveAllocation/ListEmployees.cshtml.g.cs
