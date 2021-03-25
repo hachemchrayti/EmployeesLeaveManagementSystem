@@ -11,5 +11,6 @@ namespace EmployeesLeaveManagementSystem.Repository
         bool Update(T entity);
         bool Delete(T entity);
         bool Save();
+        bool isExists(int id);
     }
 }

@@ -36,6 +36,13 @@ namespace EmployeesLeaveManagementSystem.Repository
             var LeaveAllocation = _db.LeaveAllocations.Find(id);
             return LeaveAllocation;
         }
+
+        public bool isExists(int id)
+        {
+            var exists = _db.LeaveAllocations.Any(l => l.Id == id);
+            return exists;
+        }
+
         public bool Save()
         {
             var changes = _db.SaveChanges();

@@ -37,6 +37,13 @@ namespace EmployeesLeaveManagementSystem.Repository
             var LeaveHistory = _db.LeaveHistories.Find(id);
             return LeaveHistory;
         }
+
+        public bool isExists(int id)
+        {
+            var exists = _db.LeaveHistories.Any(l => l.Id == id);
+            return exists;
+        }
+
         public bool Save()
         {
             var changes = _db.SaveChanges();

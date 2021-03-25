@@ -380,7 +380,6 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csprojAssemblyReference.cache
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.AssemblyInfoInputs.cache
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.AssemblyInfo.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csproj.CoreCompileInputs.cache
@@ -397,6 +396,11 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Create.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Delete.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Details.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Edit.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Index.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
