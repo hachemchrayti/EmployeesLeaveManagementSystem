@@ -5,10 +5,12 @@ using AutoMapper;
 using EmployeesLeaveManagementSystem.Data;
 using EmployeesLeaveManagementSystem.Models;
 using EmployeesLeaveManagementSystem.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeesLeaveManagementSystem.Controllers
 {
+    [Authorize(Roles = "Administrator")]
     public class LeaveTypesController : Controller
     {
         private readonly ILeaveTypeRepository _repo;
