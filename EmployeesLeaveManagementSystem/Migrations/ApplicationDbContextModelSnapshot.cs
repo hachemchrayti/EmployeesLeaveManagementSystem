@@ -50,7 +50,7 @@ namespace EmployeesLeaveManagementSystem.Migrations
                     b.ToTable("LeaveAllocations");
                 });
 
-            modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveHistory", b =>
+            modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveRequest", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -63,6 +63,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
                     b.Property<string>("ApprovedById")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<bool>("Cancelled")
+                        .HasColumnType("bit");
+
                     b.Property<DateTime>("DateActioned")
                         .HasColumnType("datetime2");
 
@@ -74,6 +77,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.Property<int>("LeaveTypeId")
                         .HasColumnType("int");
+
+                    b.Property<string>("RequestComments")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RequestingEmployeeId")
                         .HasColumnType("nvarchar(450)");
@@ -89,7 +95,7 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.HasIndex("RequestingEmployeeId");
 
-                    b.ToTable("LeaveHistories");
+                    b.ToTable("LeaveRequests");
                 });
 
             modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveType", b =>
@@ -358,7 +364,7 @@ namespace EmployeesLeaveManagementSystem.Migrations
                     b.Navigation("LeaveType");
                 });
 
-            modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveHistory", b =>
+            modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveRequest", b =>
                 {
                     b.HasOne("EmployeesLeaveManagementSystem.Data.Employee", "ApprovedBy")
                         .WithMany()

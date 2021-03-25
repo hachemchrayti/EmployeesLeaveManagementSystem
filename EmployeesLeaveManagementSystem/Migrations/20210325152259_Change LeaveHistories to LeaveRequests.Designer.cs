@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeesLeaveManagementSystem.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210324181320_Add tables leaveDetails LeaveTypes LeaveAllocations ")]
-    partial class AddtablesleaveDetailsLeaveTypesLeaveAllocations
+    [Migration("20210325152259_Change LeaveHistories to LeaveRequests")]
+    partial class ChangeLeaveHistoriestoLeaveRequests
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -38,6 +38,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("NumberOfDays")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Period")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -88,7 +91,7 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.HasIndex("RequestingEmployeeId");
 
-                    b.ToTable("LeaveHistories");
+                    b.ToTable("LeaveRequests");
                 });
 
             modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveType", b =>
@@ -100,6 +103,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
+
+                    b.Property<int>("DefaultDays")
+                        .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");

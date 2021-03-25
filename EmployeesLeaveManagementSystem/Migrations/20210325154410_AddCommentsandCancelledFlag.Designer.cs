@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeesLeaveManagementSystem.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210324181320_Add tables leaveDetails LeaveTypes LeaveAllocations ")]
-    partial class AddtablesleaveDetailsLeaveTypesLeaveAllocations
+    [Migration("20210325154410_AddCommentsandCancelledFlag")]
+    partial class AddCommentsandCancelledFlag
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -40,6 +40,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
                     b.Property<int>("NumberOfDays")
                         .HasColumnType("int");
 
+                    b.Property<int>("Period")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("EmployeeId");
@@ -62,6 +65,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
                     b.Property<string>("ApprovedById")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<bool>("Cancelled")
+                        .HasColumnType("bit");
+
                     b.Property<DateTime>("DateActioned")
                         .HasColumnType("datetime2");
 
@@ -73,6 +79,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.Property<int>("LeaveTypeId")
                         .HasColumnType("int");
+
+                    b.Property<string>("RequestComments")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RequestingEmployeeId")
                         .HasColumnType("nvarchar(450)");
@@ -88,7 +97,7 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.HasIndex("RequestingEmployeeId");
 
-                    b.ToTable("LeaveHistories");
+                    b.ToTable("LeaveRequests");
                 });
 
             modelBuilder.Entity("EmployeesLeaveManagementSystem.Data.LeaveType", b =>
@@ -100,6 +109,9 @@ namespace EmployeesLeaveManagementSystem.Migrations
 
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
+
+                    b.Property<int>("DefaultDays")
+                        .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
