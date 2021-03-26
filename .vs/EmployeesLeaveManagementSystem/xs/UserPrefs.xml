@@ -1,21 +1,21 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeesLeaveManagementSystem/Views/LeaveTypes/Index.cshtml">
     <Files>
       <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveTypesController.cs" Line="79" Column="1" />
       <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" Line="21" Column="50" />
       <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveAllocationController.cs" Line="17" Column="41" />
+      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveTypes/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmployeesLeaveManagementSystem" expanded="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Contracts" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="LeaveRequestController.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LeaveTypes" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
               </Node>
-              <Node name="Repository" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
