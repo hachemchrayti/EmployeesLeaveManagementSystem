@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using EmployeesLeaveManagementSystem.Repository;
 using EmployeesLeaveManagementSystem.Mappings;
+using EmployeesLeaveManagementSystem.Contracts;
 
 namespace EmployeesLeaveManagementSystem
 {
@@ -39,6 +40,9 @@ namespace EmployeesLeaveManagementSystem
             services.AddScoped<ILeaveTypeRepository, LeaveTypeRepository>();
             services.AddScoped<ILeaveRequestRepository, LeaveRequestRepository>();
             services.AddScoped<ILeaveAllocationRepository, LeaveAllocationRepository>();
+
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
+
 
             services.AddAutoMapper(typeof(Maps));
 
