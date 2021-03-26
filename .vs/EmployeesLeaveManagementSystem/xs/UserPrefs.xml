@@ -1,21 +1,31 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeesLeaveManagementSystem/Views/LeaveTypes/Index.cshtml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveTypesController.cs" Line="79" Column="1" />
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" Line="21" Column="50" />
-      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveAllocationController.cs" Line="17" Column="41" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/LeaveTypes/Index.cshtml" Line="1" Column="1" />
+      <File FileName="EmployeesLeaveManagementSystem/Services/IEmailSender.cs" Line="20" Column="50" />
+      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Register.cshtml" Line="1" Column="1" />
+      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="91" Column="44" />
+      <File FileName="EmployeesLeaveManagementSystem/Startup.cs" Line="50" Column="64" />
+      <File FileName="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" Line="27" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmployeesLeaveManagementSystem" expanded="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="LeaveTypes" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
                 </Node>
               </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="LeaveRequestController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>

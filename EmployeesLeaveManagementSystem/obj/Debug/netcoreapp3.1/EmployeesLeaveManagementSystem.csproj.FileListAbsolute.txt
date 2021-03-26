@@ -503,3 +503,7 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.pdb
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.genruntimeconfig.cache
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/MailKit.dll
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csprojAssemblyReference.cache

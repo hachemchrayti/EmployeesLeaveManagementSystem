@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using EmployeesLeaveManagementSystem.Repository;
 using EmployeesLeaveManagementSystem.Mappings;
 using EmployeesLeaveManagementSystem.Contracts;
+using EmployeesLeaveManagementSystem.Services;
 
 namespace EmployeesLeaveManagementSystem
 {
@@ -43,6 +44,10 @@ namespace EmployeesLeaveManagementSystem
 
             services.AddTransient<IUnitOfWork, UnitOfWork>();
 
+
+            //Email Settings Section
+            services.Configure<EmailSettings>(Configuration.GetSection("EmailSettings"));
+            services.AddSingleton<IEmailSender, EmailSender>();
 
             services.AddAutoMapper(typeof(Maps));
 

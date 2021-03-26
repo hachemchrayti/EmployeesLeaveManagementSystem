@@ -132,24 +132,11 @@ namespace EmployeesLeaveManagementSystem.Controllers
             }
         }
 
-        // GET: LeaveTypes/Delete/5
-        public async Task<ActionResult> Delete(int id)
-        {
-            //var leavetype = await _repo.FindById(id);
-            var leavetype = await _unitOfWork.LeaveTypes.Find(expression: q => q.Id == id);
-            if (leavetype == null)
-            {
-                return NotFound();
-            }
-            _unitOfWork.LeaveTypes.Delete(leavetype);
-            await _unitOfWork.Save();
-            return RedirectToAction(nameof(Index));
-        }
 
         // POST: LeaveTypes/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Delete(int id, LeaveTypeVM model)
+        public async Task<ActionResult> Delete(int id)
         {
             try
             {
@@ -162,12 +149,12 @@ namespace EmployeesLeaveManagementSystem.Controllers
                 _unitOfWork.LeaveTypes.Delete(leavetype);
                 await _unitOfWork.Save();
 
-                return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View(model);
+
             }
+            return RedirectToAction(nameof(Index));
         }
     }
 }
