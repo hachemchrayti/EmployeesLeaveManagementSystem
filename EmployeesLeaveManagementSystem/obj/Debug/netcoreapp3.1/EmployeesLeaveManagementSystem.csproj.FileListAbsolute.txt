@@ -490,6 +490,7 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Edit.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/LeaveTypes/Index.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_AdminLTE.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
@@ -502,5 +503,3 @@
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.dll
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.pdb
 /Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.genruntimeconfig.cache
-/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/EmployeesLeaveManagementSystem.csprojAssemblyReference.cache
-/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_AdminLTE.cshtml.g.cs

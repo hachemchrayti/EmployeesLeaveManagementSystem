@@ -1,33 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{48FC75DB-7424-4045-BC76-82B03E912708}|Default">
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="EmployeesLeaveManagementSystem/Views/Shared/_AdminLTE.cshtml" Line="2" Column="38" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Login.cshtml" Line="41" Column="43" />
-      <File FileName="EmployeesLeaveManagementSystem/Areas/Identity/Pages/Account/Register.cshtml" Line="78" Column="2" />
-      <File FileName="EmployeesLeaveManagementSystem/Views/Home/Index.cshtml" Line="39" Column="7" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EmployeesLeaveManagementSystem" expanded="True">
+          <Node name="EmployeesLeaveManagementSystem" expanded="True" selected="True">
             <Node name="EmployeesLeaveManagementSystem" expanded="True">
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True">
-                    <Node name="Account" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-                <Node name="LeaveAllocation" expanded="True" />
-                <Node name="LeaveRequest" expanded="True" />
-                <Node name="LeaveTypes" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
@@ -39,9 +16,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Volumes/Dev/Formations/NetCore3.1/Projects/EmployeesLeaveManagementSystem/EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" relfile="EmployeesLeaveManagementSystem/Controllers/LeaveRequestController.cs" line="153" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
